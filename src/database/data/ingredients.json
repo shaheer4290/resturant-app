@@ -1,0 +1,22 @@
+{
+  "ingredients": [
+    {
+      "name": "Beef",
+      "current_stock": 20,
+      "initial_stock": 20,
+      "unit": "kg"
+    },
+    {
+      "name": "Cheese",
+      "current_stock": 5,
+      "initial_stock": 5,
+      "unit": "kg"
+    },
+    {
+      "name": "Onion",
+      "current_stock": 1,
+      "initial_stock": 1,
+      "unit": "kg"
+    }
+  ]
+}

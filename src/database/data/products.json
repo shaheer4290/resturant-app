@@ -1,0 +1,26 @@
+{
+  "products": [
+    { 
+      "name" : "Burger",
+      "price" : 100,
+      "ingredients" : [
+        {
+          "name" : "Beef",
+          "quantity" : 150,
+          "unit" : "g"
+        },
+        {
+          "name" : "Cheese",
+          "quantity" : 30,
+          "unit" : "g"
+        },
+        {
+          "name" : "Onion",
+          "quantity" : 20,
+          "unit" : "g"
+        }
+      ]
+
+    }
+  ]
+}
