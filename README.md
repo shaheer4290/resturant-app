@@ -13,7 +13,7 @@ Restful Apis to create a quiz bulder application
 
 1 - Clone this repo
 ```
-git clone git@git.toptal.com:screening/Syed-M-Shaheer-Hussain.git {yourproject}
+git clone https://github.com/shaheer4290/resturant-app.git {yourproject}
 cd {yourproject}
 cp src/.env.example src/.env
 ```
