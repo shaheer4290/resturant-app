@@ -1,6 +1,6 @@
 # Resturant App
 
-Restful Apis to create a quiz bulder application
+Restful Apis to create a resturant application
 
 ## Built using
 - PHP Laravel 9
